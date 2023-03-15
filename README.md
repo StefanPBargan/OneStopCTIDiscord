@@ -6,3 +6,5 @@ My goal is to stay ahead of the latest cyber threats and improve our incident re
 I invite anyone interested in CTI to join our server and help us stay ahead of the ever-evolving threat landscape. Let's work together to keep our networks and systems secure!
 
 Invite Link - https://discord.gg/4xaPb33YFp
+
+*The server is still a work in progress but with the help of the community I hope to create something awesome.
